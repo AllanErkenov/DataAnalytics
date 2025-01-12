@@ -1,6 +1,6 @@
 # Анализ данных сайта e-commerce
 
-[Ссылка на тетрадь](https://github.com/aksyutenko/data_analyst_portfolio/blob/main/AB_test/AB_test.ipynb)
+[Ссылка на тетрадь](https://github.com/AllanErkenov/DataAnalytics/blob/main/EDA-ML/Project%201.ipynb)
 
 **Цель исследования**
 
