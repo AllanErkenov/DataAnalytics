@@ -1,6 +1,7 @@
 # Анализ данных сайта e-commerce
 
 [Ссылка на тетрадь](https://github.com/AllanErkenov/DataAnalytics/blob/main/EDA-ML/Project%201.ipynb)
+
 [Ссылка на источник данных](https://www.kaggle.com/code/niteshyadav3103/eda-e-commerce-shipping-data)
 
 **Цель исследования**
