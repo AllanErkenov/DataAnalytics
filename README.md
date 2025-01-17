@@ -20,7 +20,9 @@
 
 |#|Название проекта|Описание проекта|Статус|Стек|
 |-|----------|----------|----------|----------|
-|1|[Первичный анализ данных и разработка модели машинного обучения по ней](https://github.com/aksyutenko/analyst_portfolio/tree/main/youtube_pt1)|Были изученны данные с kaggle о продажах на e-commerce сайте|завершен|pandas</br>mattplotlib</br>Excel</br>sklearn</br>PowerBI</br>Машинное обучение</br>Мат. статистика|
+|1|[Первичный анализ данных и разработка модели машинного обучения по ней](https://github.com/AllanErkenov/DataAnalytics/tree/main/EDA-ML)|Были изученны данные с kaggle о продажах на e-commerce сайте|завершен|pandas</br>mattplotlib</br>Excel</br>sklearn</br>PowerBI</br>Машинное обучение</br>Мат. статистика|
+|2|[Парсинг сайта о книгах](https://github.com/AllanErkenov/DataAnalytics/tree/main/BookScraping)|Были получены, обработаны и сохранены данный с сайта в фаиле json|завершен|requests</br>bs4</br>json|
+
 
 
 
