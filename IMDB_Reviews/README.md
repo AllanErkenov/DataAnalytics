@@ -1,7 +1,8 @@
 # Создание модели машинного обучения для оценки рецензий IMDB
 
 [Ссылка на источник данных](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
-[Ссылка на тетрадь](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
+
+[Ссылка на тетрадь](https://github.com/AllanErkenov/DataAnalytics/blob/main/IMDB_Reviews/Review.ipynb)
 
 
 Этот код обучает модель наивного Байеса на оценках окраса рецензий для того, чтобы использовать эту модель в будущем. Код создает модель, проверяет ее точность и если она устраивает,
