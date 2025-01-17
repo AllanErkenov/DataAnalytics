@@ -21,5 +21,6 @@ Quit the server with CTRL-BREAK.
 - django
 - requests
 - bs4
+- json
 
 
