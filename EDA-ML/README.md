@@ -2,7 +2,7 @@
 
 [Ссылка на тетрадь](https://github.com/AllanErkenov/DataAnalytics/blob/main/EDA-ML/Project%201.ipynb)
 
-[Ссылка на источник данных](https://www.kaggle.com/code/niteshyadav3103/eda-e-commerce-shipping-data)
+[Ссылка на источник данных](https://www.kaggle.com/datasets/carrie1/ecommerce-data?resource=download)
 
 **Цель исследования**
 
